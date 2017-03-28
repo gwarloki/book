@@ -5,6 +5,8 @@
   * [BCM定义](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/bcmding-yi.md)
   * [风险管理VS业务连续性管理](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/feng-xian-guan-li-vs-ye-wu-lian-xu-xing-guan-li.md)
   * [风险评估VS业务影响分析](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/feng-xian-ping-gu-vs-ye-wu-ying-xiang-fen-xi.md)
+  * [业务连续性管理流程](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/ye-wu-lian-xu-xing-guan-li-liu-cheng.md)
+  * [业务恢复的6R模型](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/ye-wu-hui-fu-de-6r-mo-xing.md)
 * [第二章 规划业务连续性管理体系](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi.md)
   * [通则](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/tong-ze.md)
   * [建立和管理BCMS](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jian-li-he-guan-li-bcms.md)
