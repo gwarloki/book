@@ -9,11 +9,31 @@ BC 25999应该BCM标准-该标准为在组织内了解、开发和实施业务�
 * 第1部分《BCM实践指南》于2006年底公布
 * 第2部分《BCM规范》于2007年底公布
 
+**美国**
+
 NFPA 1600 美国消防协会规划和标准1600
 
 * 《关于灾难/应急管理与业务连续性规划的标准》（Standard on Disaster/Emergency Management and Business Continuity Programs\)
 
-SS 540\(TR 19\) & SS 507 新加坡BCM标准
+* 1983年OCC发布了指引要求银行制定维护灾难恢复预案。
+* 1989年FFIEC要求银行对灾难恢复预案进行测试和演练
+* 2003年3月FFIEC《金融机构检查委员会业务连续计划手册》
+* 2002年8月NASD颁布了《NASD Proposed Regulation》，该规范提出了BCP的八点最低要求。
+* 2003年5月28日，美国金融监管三大机构Board、SEC和OCC发布《interagency White Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System》
+
+**澳大利亚**
+
+澳大利亚国家审计局（ANAO）
+
+* 《Business Continuity Management，2000 Better practice》
+* 《Business Continuity Management Follow-Audit》
+* 《Business Continuity Manganese and Emergency Management in Centrelink》
+
+**新加坡**
+
+* 2001年7月在《Internet Banking Technology Risk Management Guidelines》；
+* 2003年7月发布了正式的《Business Continuity Management Guideline》
+* 2005年，新加坡信息技术委员会出台了业务连续性/灾难恢复（BC/DR\)服务提供商评定标准SS 540\(TR 19\) & SS 507 新加坡BCM标准
 
 Sarbanes-Oxley Act 《塞班斯法案》（2002）
 
@@ -29,10 +49,4 @@ Basel II capital Accord 《新巴塞尔协定》（巴塞尔银行监督委员�
 Guideline on Business Continuity Management 《业务连续性管理指引》澳门金管局
 
 《业务应急计划指导方针》 新加坡金融管理局 2003.1
-
-
-
-
-
-
 
