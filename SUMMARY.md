@@ -29,4 +29,5 @@
   * [BCM文档和记录](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/bcmwen-dang-he-ji-lu.md)
     * BCMS文档
     * BCMS记录
+* [第三章 业务连续性实务框架（BCMPF）](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf.md)
 
