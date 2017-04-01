@@ -30,4 +30,5 @@
     * BCMS文档
     * BCMS记录
 * [第三章 业务连续性实务框架（BCMPF）](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf.md)
+  * [风险应对策略的四种方法](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/feng-xian-ying-dui-ce-lve-de-si-zhong-fang-fa.md)
 
