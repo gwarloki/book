@@ -16,6 +16,7 @@
   * [业务恢复的6R模型](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/ye-wu-hui-fu-de-6r-mo-xing.md)
   * [应急VS业务连续](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/ying-ji-yu-ye-wu-lian-xu.md)
   * [BCM中的各种计划](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/bcmzhong-de-ge-zhong-ji-hua.md)
+  * [业务连续性管理最佳实践](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/ye-wu-lian-xu-xing-guan-li-zui-jia-shi-jian.md)
 * [第二章 规划业务连续性管理体系](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi.md)
   * [通则](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/tong-ze.md)
   * [建立和管理BCMS](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jian-li-he-guan-li-bcms.md)
