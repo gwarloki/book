@@ -34,4 +34,5 @@
   * [风险应对策略的四种方法](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/feng-xian-ying-dui-ce-lve-de-si-zhong-fang-fa.md)
   * [一案三制](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/yi-an-san-zhi.md)
 * [第四章 业务影响分析](di-si-zhang-ye-wu-ying-xiang-fen-xi.md)
+  * [业务影响分析背景及过程](di-si-zhang-ye-wu-ying-xiang-fen-xi/ye-wu-ying-xiang-fen-xi-bei-jing-ji-guo-cheng.md)
 
