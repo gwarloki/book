@@ -40,5 +40,6 @@
     * [确定评估范围](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/que-ding-ping-gu-fan-wei.md)
     * [访谈调研](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/fang-tan-diao-yan.md)
     * [问卷设计填写](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/wen-juan-she-ji-tian-xie.md)
+    * [数据分析](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/shu-ju-fen-xi.md)
   * [业务影响分析的主要目标](di-si-zhang-ye-wu-ying-xiang-fen-xi/ye-wu-ying-xiang-fen-xi-de-zhu-yao-mu-biao.md)
 
