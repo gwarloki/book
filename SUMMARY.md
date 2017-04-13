@@ -37,5 +37,8 @@
   * [业务影响分析背景及过程](di-si-zhang-ye-wu-ying-xiang-fen-xi/ye-wu-ying-xiang-fen-xi-bei-jing-ji-guo-cheng.md)
   * [重要业务和重要系统识别（重要业务识别）](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-he-zhong-yao-xi-tong-shi-bie-ff08-zhong-yao-ye-wu-shi-bie-ff09.md)
   * [重要业务影响分析过程及结果（恢复优先级排序）](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09.md)
+    * [确定评估范围](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/que-ding-ping-gu-fan-wei.md)
+    * [访谈调研](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/fang-tan-diao-yan.md)
+    * [问卷设计填写](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/wen-juan-she-ji-tian-xie.md)
   * [业务影响分析的主要目标](di-si-zhang-ye-wu-ying-xiang-fen-xi/ye-wu-ying-xiang-fen-xi-de-zhu-yao-mu-biao.md)
 
