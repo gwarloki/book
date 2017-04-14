@@ -42,4 +42,5 @@
     * [问卷设计填写](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/wen-juan-she-ji-tian-xie.md)
     * [数据分析](di-si-zhang-ye-wu-ying-xiang-fen-xi/zhong-yao-ye-wu-ying-xiang-fen-xi-guo-cheng-ji-jie-guo-ff08-hui-fu-you-xian-ji-pai-xu-ff09/shu-ju-fen-xi.md)
   * [业务影响分析的主要目标](di-si-zhang-ye-wu-ying-xiang-fen-xi/ye-wu-ying-xiang-fen-xi-de-zhu-yao-mu-biao.md)
+* [业务运营关联资源](ye-wu-yun-ying-guan-lian-zi-yuan.md)
 
