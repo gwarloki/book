@@ -23,13 +23,12 @@
     * [需求](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jian-li-he-guan-li-bcms/xu-qiu.md)
     * [供应商和外部活动](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jian-li-he-guan-li-bcms/gong-ying-shang-he-wai-bu-huo-dong.md)
     * [资源提供](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jian-li-he-guan-li-bcms/zi-yuan-ti-gong.md)
-    * [资源提供](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jian-li-he-guan-li-bcms/zi-yuan-ti-gong.md)
     * [培训、意识和能力](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jian-li-he-guan-li-bcms/pei-xun-3001-yi-shi-he-neng-li.md)
   * [将BCMS植入组织文化](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jiang-bcms-zhi-ru-zu-zhi-wen-hua.md)
-    * 管理和培训
+    * [管理和培训](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/jiang-bcms-zhi-ru-zu-zhi-wen-hua/guan-li-he-pei-xun.md)
   * [BCM文档和记录](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/bcmwen-dang-he-ji-lu.md)
-    * BCMS文档
-    * BCMS记录
+    * [BCMS文档](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/bcmwen-dang-he-ji-lu/bcmswen-dang.md)
+    * [BCMS记录](di-er-zhang-gui-hua-ye-wu-lian-xu-xing-guan-li-ti-xi/bcmwen-dang-he-ji-lu/bcmsji-lu.md)
 * [第三章 业务连续性实务框架（BCMPF）](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf.md)
   * [风险应对策略的四种方法](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/feng-xian-ying-dui-ce-lve-de-si-zhong-fang-fa.md)
   * [一案三制](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/yi-an-san-zhi.md)
