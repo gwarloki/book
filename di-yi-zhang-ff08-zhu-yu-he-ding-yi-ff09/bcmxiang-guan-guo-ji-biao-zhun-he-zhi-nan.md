@@ -15,10 +15,11 @@ NFPA 1600 美国消防协会规划和标准1600
 
 * 《关于灾难/应急管理与业务连续性规划的标准》（Standard on Disaster/Emergency Management and Business Continuity Programs\)
 
-* 1983年OCC发布了指引要求银行制定维护灾难恢复预案。
+* 1983年OCC发布了指引要求银行制定维护灾难恢复预案
+
 * 1989年FFIEC要求银行对灾难恢复预案进行测试和演练
 * 2003年3月FFIEC《金融机构检查委员会业务连续计划手册》
-* 2002年8月NASD颁布了《NASD Proposed Regulation》，该规范提出了BCP的八点最低要求。
+* 2002年8月NASD颁布了《NASD Proposed Regulation》，该规范提出了BCP的八点最低要求
 * 2003年5月28日，美国金融监管三大机构Board、SEC和OCC发布《interagency White Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System》
 
 **澳大利亚**
