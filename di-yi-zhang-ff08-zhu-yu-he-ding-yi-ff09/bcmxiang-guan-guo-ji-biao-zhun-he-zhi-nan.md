@@ -20,6 +20,7 @@ NFPA 1600 美国消防协会规划和标准1600
 * 1989年FFIEC要求银行对灾难恢复预案进行测试和演练
 
 * 2003年3月FFIEC《金融机构检查委员会业务连续计划手册》
+
 * 2002年8月NASD颁布了《NASD Proposed Regulation》，该规范提出了BCP的八点最低要求
 * 2003年5月28日，美国金融监管三大机构Board、SEC和OCC发布《interagency White Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System》
 
@@ -49,6 +50,10 @@ Sarbanes-Oxley Act 《塞班斯法案》（2002）
 Basel II capital Accord 《新巴塞尔协定》（巴塞尔银行监督委员会于2001年发布）
 
 * 关于金融机构风险管理和资本最低限要求
+
+**业务连续性协会**
+
+业务连续性管理实施-全球最佳实践2008
 
 
 
