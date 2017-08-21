@@ -31,6 +31,7 @@
 * [第三章 业务连续性实务框架（BCMPF）](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf.md)
   * [风险应对策略的四种方法](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/feng-xian-ying-dui-ce-lve-de-si-zhong-fang-fa.md)
   * [一案三制](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/yi-an-san-zhi.md)
+  * [应急响应及恢复流程图](di-san-zhang-ye-wu-lian-xu-xing-shi-wu-kuang-jia-ff08-bcmpf/ying-ji-xiang-ying-ji-hui-fu-liu-cheng-tu.md)
 * [BCM中的各种计划](di-yi-zhang-ff08-zhu-yu-he-ding-yi-ff09/bcmzhong-de-ge-zhong-ji-hua.md)
 * [第四章 业务影响分析](di-si-zhang-ye-wu-ying-xiang-fen-xi.md)
   * [业务影响分析背景及过程](di-si-zhang-ye-wu-ying-xiang-fen-xi/ye-wu-ying-xiang-fen-xi-bei-jing-ji-guo-cheng.md)
